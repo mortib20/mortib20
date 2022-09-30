@@ -5,7 +5,7 @@ My name is Martin and I am from Germany.
 Ansible and a lot more in school. :muscle:
 
 ## Hobbys
-- Planetracking and Planespotting ![Website](https://feed.martpaul.de)  :airplane:
+- Planetracking and Planespotting [Website](https://feed.martpaul.de)  :airplane:
 - Programming on Microcontroller (Arduino and ESP32) :electric_plug:
 - Playing Games :video_game:
 - Testing new stuff :new:
@@ -38,3 +38,6 @@ Ansible and a lot more in school. :muscle:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortib20&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mortib20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
