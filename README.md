@@ -6,6 +6,7 @@ Ansible and a lot more in school. :muscle:
 
 ## Hobbys
 - Planetracking and Planespotting [Website](https://feed.martpaul.de)  :airplane:
+- Solving Problems :interrobang:
 - Programming on Microcontroller (Arduino and ESP32) :electric_plug:
 - Playing Games :video_game:
 - Testing new stuff :new:
