@@ -2,7 +2,7 @@
 My name is Martin and I am from Germany.
 
 ## Currently learning
-Ansible and a lot more in school. :muscle:
+A lot more in school. :muscle:
 
 ## Hobbys
 - Planetracking and Planespotting [Website](https://feed.martpaul.de)  :airplane:
