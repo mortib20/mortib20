@@ -2,7 +2,7 @@
 My name is Martin and I am from Germany.
 
 ## Currently learning
-A lot more in school. :muscle:
+C# and OOP
 
 ## Hobbys
 - Planetracking and Planespotting [Website](https://feed.martpaul.de)  :airplane:
