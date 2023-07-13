@@ -1,9 +1,6 @@
 # Servus :wave:
 My name is Martin and I am from Germany.
 
-## Currently learning
-C# and OOP
-
 ## Hobbys
 - Planetracking and Planespotting [Website](https://feed.martpaul.de)  :airplane:
 - Solving Problems :interrobang:
