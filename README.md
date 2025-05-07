@@ -2,7 +2,7 @@
 My name is Martin and I am from Germany.
 
 ## Hobbys
-- Planetracking and Planespotting [Website](https://feed.martpaul.de)  :airplane:
+- Planetracking and Planespotting [Website](https://aviation.marpa.bayern/)  :airplane:
 - Solving Problems :interrobang:
 - Programming on Microcontroller (Arduino and ESP32) :electric_plug:
 - Playing Games :video_game:
